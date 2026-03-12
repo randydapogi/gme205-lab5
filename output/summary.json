@@ -1,0 +1,14 @@
+{
+  "parameters": {
+    "spatial_features_file": "data/spatial_features.json"
+  },
+  "result": {
+    "total_features": 6,
+    "total_area": 28716.279979955267,
+    "area_per_class": {
+      "Parcel": 7193.404612906548,
+      "Building": 12948.170653903877,
+      "Road": 8574.704713144842
+    }
+  }
+}
